@@ -16,4 +16,7 @@ public class Employee {
     private String id;
     @NonNull
     private String name;
+    public Employee(){
+
+    }
 }
